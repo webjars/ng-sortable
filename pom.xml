@@ -11,7 +11,7 @@
     <packaging>jar</packaging>
     <groupId>org.webjars</groupId>
     <artifactId>ng-sortable</artifactId>
-    <version>1.1.1</version>
+    <version>1.1.2-SNAPSHOT</version>
     <name>ng-sortable</name>
     <description>WebJar for ng-sortable</description>
     <url>http://webjars.org</url>
@@ -53,7 +53,7 @@
         <url>http://github.com/webjars/ng-sortable</url>
         <connection>scm:git:https://github.com/webjars/ng-sortable.git</connection>
         <developerConnection>scm:git:https://github.com/webjars/ng-sortable.git</developerConnection>
-        <tag>ng-sortable-1.1.1</tag>
+        <tag>HEAD</tag>
     </scm>
     
     <dependencies>
